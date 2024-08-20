@@ -10,9 +10,6 @@ I am intrested in learning more of IT.
 - I like to program.
 - I like cats.
 - I have intrest in playing video games and writing.
- ∧,,,∧
-(  ̳• · • ̳)
-/    づ♡ 
 
 <!--
 # Hi, I'm <YOUR NAME>! 👋
