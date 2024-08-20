@@ -1,7 +1,6 @@
 # Hi, I'm Kamilė! ᡣ • . • 𐭩 ♡
 I am intrested in learning more of IT. 
 
-![Kami8ka's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me ≽^• ˕ • ྀི≼
 
@@ -9,12 +8,11 @@ I am intrested in learning more of IT.
 - I like to program.
 - I like cats.
 - I have intrest in playing video games and writing.
+ ∧,,,∧
+(  ̳• · • ̳)
+/    づ♡ 
 
-   /ᐢ⑅ᐢ\   ♡   ₊˚  
-꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
-./づ~ :¨·.·¨:     ₊˚  
-           `·..·‘    ₊˚   ♡
-
+![Kami8ka's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 # Hi, I'm <YOUR NAME>! 👋
