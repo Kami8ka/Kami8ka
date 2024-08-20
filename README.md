@@ -1,5 +1,5 @@
 # Hi, I'm Kamilė! ᡣ • . • 𐭩 ♡
-I am intrested in learning more of IT. 
+I am intrested in learning more of IT. ⊹˚. ♡.𖥔 ݁ ˖ 
 
 ## About Me ≽^• ˕ • ྀི≼
 
